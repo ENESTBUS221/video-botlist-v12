@@ -12,7 +12,7 @@ exports.run = async (client, message, args) => {
 
   .setColor("BLACK")
 
-  .setTitle('Veatry Sunucu Menüsü')
+  .setTitle('Suspects Sunucu Menüsü')
 
   .addField("• | !botekle",`__Bot Eklersiniz__`)
   
